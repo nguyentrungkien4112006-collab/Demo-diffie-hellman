@@ -18,12 +18,13 @@ Chương trình lấy **BTVD trên Slide 51 Chương 3** làm cấu hình mặc 
 
 ## 2. Thành viên Nhóm 10
 
-| STT | MSSV | Họ và tên | 
-/n | 1 | 11244089 | Nguyễn Trung Kiên 
-/n | 2 | 11245586 | Bùi Trần Linh Hương 
-/n | 3 | 11241333 | Phạm Minh Dung 
-/n | 4 | 11240133 | Tạ Huyền Trang 
-/n | 5 | 11242778 | Phùng Trà My 
+| STT | MSSV | Họ và tên |
+| :--- | :---: | :--- |
+| 1 | 11244089 | Nguyễn Trung Kiên |
+| 2 | 11245586 | Bùi Trần Linh Hương |
+| 3 | 11241333 | Phạm Minh Dung |
+| 4 | 11240133 | Tạ Huyền Trang |
+| 5 | 11242778 | Phùng Trà My |
 
 ## 3. Cấu trúc thư mục (Chia module rõ ràng, tách thuật toán khỏi giao diện)
 
